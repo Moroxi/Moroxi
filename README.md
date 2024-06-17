@@ -1,1 +1,1 @@
-https://komarev.com/ghpvc/?username=Moroxi&label=Profile%20views&color=0e75b6&style=flat" alt="Moroxi"
+![](https://komarev.com/ghpvc/?username=Moroxi&color=green&style=flat&label=Profile+Views&abbreviated=true)
