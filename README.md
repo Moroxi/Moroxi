@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=Moroxi&color=green&style=flat&label=Profile+Views&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Moroxi&color=green&style=flat&label=Profile+Views&abbreviated=true)
